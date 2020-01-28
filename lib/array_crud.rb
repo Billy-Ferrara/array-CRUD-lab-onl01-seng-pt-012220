@@ -4,7 +4,7 @@ end
 
 def create_an_array
   def ninja_turtles
-  ninja_turtles = ["leonardo", "Raphael", "Donatello", "Michaelangelo"]
+ create_an_array = ninja_turtles = ["leonardo", "Raphael", "Donatello", "Michaelangelo"]
 end
 
 def add_element_to_end_of_array(array, element)
